@@ -656,7 +656,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--video",
         # required=True,
-        default="real_traffic/1108.mov",
+        default="input_test.mov",
         help="Input video path (must be inside a labeled dataset folder)"
     )
 
